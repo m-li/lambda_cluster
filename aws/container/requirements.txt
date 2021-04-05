@@ -1,0 +1,6 @@
+boto3
+numpy
+pandas
+cloudpickle
+scikit-learn
+psycopg2-binary
